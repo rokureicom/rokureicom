@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+> You know, I'm something of a senior developer and architect myself
+
+
+- Chose your weapon: 🪨 📃 ✂️ 🦎 🖖
+- Enjoy it
+- 🤡
+
+
+
 
 <!--
 **rokureicom/rokureicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
